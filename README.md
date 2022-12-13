@@ -1,7 +1,7 @@
 # BeerReviews
 This project consists in the prediction of a quality score associated with a beer review.
 <br>
-Practically, you are required to build a regression model capable of inferring the quality score assigned to the beer by the reviewer.
+The goal was to create a regression model capable of inferring the quality score assigned to the beer by the reviewer.
 <br>
 The dataset is from Kaggle.com
 <br>
